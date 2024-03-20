@@ -1,0 +1,13 @@
+.text-field {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none; 
+}
+
+.text-field:focus {
+    border-color: dodgerblue;
+    box-shadow: 0 0 5px rgba(0, 0, 255, 0.3);
+}
+
